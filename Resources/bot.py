@@ -8,9 +8,6 @@ import os
 
 
 
-
-
-
 load_dotenv()
 API_TOKEN = os.getenv("TOKEN")
 
