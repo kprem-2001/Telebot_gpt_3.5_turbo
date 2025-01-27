@@ -22,28 +22,34 @@ To get started with the project, follow the steps below:
 
 1. **Clone the repository**:
 
-   ```bash
-   git clone https://github.com/yourusername/telebot.git
-   cd telebot
-**Install dependencies**:
+    ```bash
+    git clone https://github.com/yourusername/telebot.git
+    cd telebot
+    ```
 
-```bash
-pip install -r requirements.txt
-Set up environment variables:
+2. **Install dependencies**:
 
-Create a .env file in the root directory.
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-Add your Telegram bot token and OpenAI API key to the .env file:
+3. **Set up environment variables**:
 
-**Usage** 🚀
+    - Create a `.env` file in the root directory.
+    - Add your Telegram bot token and OpenAI API key to the `.env` file:
+
+      ```plaintext
+      TELEGRAM_BOT_TOKEN=your-telegram-bot-token
+      OPENAI_API_KEY=your-openai-api-key
+      ```
+
+## Usage 🚀
+
 To use this project, you can run it as a command-line tool.
 
-***Command-line tool*** 💻
+### Command-line tool 💻
+
 To start the bot, use the following command:
 
 ```bash
 python telebot.py
-Once the bot is running, you can interact with it on Telegram by sending messages to your bot.
-
-Contribution 💪
-This project is open source and welcomes any contribution to improve the bot's functionality or user experience. You can fork this repository and submit a pull request with your changes. Please follow the code style and documentation guidelines.
