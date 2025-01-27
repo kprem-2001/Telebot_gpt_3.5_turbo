@@ -53,3 +53,12 @@ To start the bot, use the following command:
 
 ```bash
 python telebot.py
+```
+
+# Contribution 💪
+This project is open source and welcomes any contribution to fine-tune the model or improve the user experience. You can fork this repository and submit a pull request with your changes. Please follow the code style and documentation guidelines.
+
+# 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kumar-b1aa57257/)
+[![email](https://img.shields.io/badge/email-0088cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarprem10694@gmail.com)
